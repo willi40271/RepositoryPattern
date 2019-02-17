@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPatternApp.WebUI", "RepositoryPatternApp.WebUI\RepositoryPatternApp.WebUI.csproj", "{29ABEFA0-6D02-49C1-9669-A38AE1B76CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPatternApp.Domain", "RepositoryPatternApp.Domain\RepositoryPatternApp.Domain.csproj", "{AB9F546E-A333-4036-A14F-780373E7F241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29ABEFA0-6D02-49C1-9669-A38AE1B76CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29ABEFA0-6D02-49C1-9669-A38AE1B76CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29ABEFA0-6D02-49C1-9669-A38AE1B76CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29ABEFA0-6D02-49C1-9669-A38AE1B76CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9F546E-A333-4036-A14F-780373E7F241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9F546E-A333-4036-A14F-780373E7F241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9F546E-A333-4036-A14F-780373E7F241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9F546E-A333-4036-A14F-780373E7F241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BFCF3C-8667-4E3F-935F-7844AF7BF5D3}
+	EndGlobalSection
+EndGlobal
